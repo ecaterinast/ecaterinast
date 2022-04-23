@@ -1,5 +1,7 @@
-### Hi there 👋
+### we're wasting time crying over wasted time
 
+
+<img src="https://github.com/ecaterinast/ecaterinast/blob/main/112.gif"></img>
 <!--
 **ecaterinast/ecaterinast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
