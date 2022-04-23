@@ -1,5 +1,5 @@
 <img src="https://github.com/ecaterinast/ecaterinast/blob/main/113.gif"></img>
-<p><em> we're wasting time crying over wasted time</em> </p>
+<p style="font-family: serif"> we're wasting time crying over wasted time.</p>
 
 ## GitHub Stats:
 
