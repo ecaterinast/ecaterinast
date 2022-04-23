@@ -1,7 +1,7 @@
-<img src="https://github.com/ecaterinast/ecaterinast/blob/main/113.gif"></img>
+<p align = "center"><img src="https://github.com/ecaterinast/ecaterinast/blob/main/113.gif"></img></p>
 <p><i> we're wasting time crying over wasted time.</i></p>
 
-<p><b>GitHub Stats:</b></p>
+<hr><b>GitHub Stats:</b></hr>
 
    <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ecaterinast&hide=html,css,java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&langs_count=3">
